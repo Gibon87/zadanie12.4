@@ -17,4 +17,4 @@ function getJoke() {
   xhr.send();
 }
 // komenda na losowy joke na poczatku strony :) 
-	getJoke()
+	getJoke();
